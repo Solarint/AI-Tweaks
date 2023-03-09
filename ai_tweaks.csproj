@@ -33,67 +33,67 @@
   <ItemGroup>
     <Reference Include="0Harmony, Version=2.9.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\BepInEx\core\0Harmony.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\BepInEx\core\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="aki-bundles">
-      <HintPath>C:\Games\3.5.1\BepInEx\plugins\aki-bundles.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\BepInEx\plugins\aki-bundles.dll</HintPath>
     </Reference>
     <Reference Include="aki-core">
-      <HintPath>C:\Games\3.5.1\BepInEx\plugins\aki-core.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\BepInEx\plugins\aki-core.dll</HintPath>
     </Reference>
     <Reference Include="aki-custom">
-      <HintPath>C:\Games\3.5.1\BepInEx\plugins\aki-custom.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\BepInEx\plugins\aki-custom.dll</HintPath>
     </Reference>
     <Reference Include="aki-debugging">
-      <HintPath>C:\Games\3.5.1\BepInEx\plugins\aki-debugging.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\BepInEx\plugins\aki-debugging.dll</HintPath>
     </Reference>
     <Reference Include="aki-singleplayer">
-      <HintPath>C:\Games\3.5.1\BepInEx\plugins\aki-singleplayer.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\BepInEx\plugins\aki-singleplayer.dll</HintPath>
     </Reference>
     <Reference Include="Aki.Build">
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\Aki.Build.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\Aki.Build.dll</HintPath>
     </Reference>
     <Reference Include="Aki.Common">
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\Aki.Common.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\Aki.Common.dll</HintPath>
     </Reference>
     <Reference Include="Aki.Reflection">
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\Aki.Reflection.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\Aki.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="AnimationSystem.Types, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" />
     <Reference Include="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx, Version=5.4.19.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\BepInEx\core\BepInEx.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\BepInEx\core\BepInEx.dll</HintPath>
     </Reference>
     <Reference Include="bsg.console.core">
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\bsg.console.core.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\bsg.console.core.dll</HintPath>
     </Reference>
     <Reference Include="Comfort, Version=1.0.0.4, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\Comfort.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\Comfort.dll</HintPath>
     </Reference>
     <Reference Include="Comfort.Unity, Version=1.0.0.4, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\Comfort.Unity.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\Comfort.Unity.dll</HintPath>
     </Reference>
     <Reference Include="ConfigurationManager, Version=16.4.1.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\BepInEx\plugins\ConfigurationManager.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\BepInEx\plugins\ConfigurationManager.dll</HintPath>
     </Reference>
     <Reference Include="ItemComponent.Types, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\ItemComponent.Types.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\ItemComponent.Types.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\Newtonsoft.Json.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\NLog.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\NLog.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -105,42 +105,42 @@
     <Reference Include="System.Xml" />
     <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\UnityEngine.AssetBundleModule.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\UnityEngine.AssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.IMGUIModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputLegacyModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextCoreModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\UnityEngine.TextCoreModule.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\UnityEngine.TextCoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Games\3.5.1\EscapeFromTarkov_Data\Managed\UnityEngine.UIModule.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\EscapeFromTarkov_Data\Managed\UnityEngine.UIModule.dll</HintPath>
     </Reference>
     <Reference Include="aki_PrePatch">
-      <HintPath>C:\Games\3.5.1\patchers\aki_PrePatch.dll</HintPath>
+      <HintPath>S:\spt 3.5.2\patchers\aki_PrePatch.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -150,7 +150,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy "$(TargetPath)" "C:\Games\3.5.1\BepInEx\plugins\AI_Tweaks.dll"</PostBuildEvent>
+    <PostBuildEvent>copy "$(TargetPath)" "S:\spt 3.5.2\BepInEx\plugins\AI_Tweaks.dll"</PostBuildEvent>
   </PropertyGroup>
   <PropertyGroup>
     <PreBuildEvent>

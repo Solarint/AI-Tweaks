@@ -20,7 +20,7 @@ namespace AI_Tweaks
 
     public class AI_Tweaks : BaseUnityPlugin
     {
-        private const String MOD_GUID = "me.ssh.aitweaks";
+        private const String MOD_GUID = "me.sol.aitweaks";
         private const String MOD_NAME = "Solarint's AI Tweaks";
         private const String MOD_VERSION = "0.1";
 
@@ -29,6 +29,7 @@ namespace AI_Tweaks
         public void Awake()
             {
                 new FireratePatch().Enable();
-            }
+               // new RoF().Enable();
+        }
     }
 }
