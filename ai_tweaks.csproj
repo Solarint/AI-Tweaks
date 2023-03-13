@@ -150,7 +150,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy "$(TargetPath)" "S:\spt 3.5.2\BepInEx\plugins\AI_Tweaks.dll"</PostBuildEvent>
+    <PostBuildEvent>copy "$(TargetPath)" "S:\spt 3.5.2\BepInEx\plugins\SAIN-3.5.2.dll"</PostBuildEvent>
   </PropertyGroup>
   <PropertyGroup>
     <PreBuildEvent>
